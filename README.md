@@ -1,2 +1,2 @@
 # Firestore Post App
-A simple streamlit app that is connected to Google Cloud Firestore and Storage. 
+A simple Streamlit app connected to Google Cloud Firestore and Storage. 
