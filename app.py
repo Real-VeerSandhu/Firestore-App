@@ -25,3 +25,6 @@ for doc in posts_ref.stream():
 
 	st.subheader(f"Post: {title}")
 	st.write(f":link: [{url}]('https://+'{url})")
+
+def test_db():
+	return 'Database Accessed', type(db)
