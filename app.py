@@ -28,3 +28,6 @@ for doc in posts_ref.stream():
 
 def test_db():
 	return 'Database Accessed', type(db)
+
+def run_set(key)
+	return type(key), 12
